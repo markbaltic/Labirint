@@ -10,3 +10,5 @@ Nato lahko brez skrbi v meniju izberete "Zapri".
 Ko se prebijete do rumenega kvadratka, se vam izpiše "ZMAGA" in lahko ste ponosni nase, saj ste premagali labirint :D
 
 Želim vam veliko užitka pri igranju.
+
+P.S.: Potrebno je prenesti tudi "nacrt2.txt", v katerem je shranjen nacrt labirinta.
