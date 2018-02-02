@@ -12,3 +12,7 @@ Ko se prebijete do rumenega kvadratka, se vam izpiše "ZMAGA" in lahko ste ponos
 Želim vam veliko užitka pri igranju.
 
 P.S.: Potrebno je prenesti tudi "nacrt2.txt", v katerem je shranjen nacrt labirinta.
+
+
+# EN:
+# Maze (first personal project, made for the subject Introduction to Programming)
